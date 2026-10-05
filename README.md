@@ -1,5 +1,7 @@
 # ResearchGPT
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/MrPeterJin/researchgpt)
+
 ![banner](images/banner.png)
 
 ![https://img.shields.io/github/stars/MrPeterJin/researchgpt?style=for-the-badge](https://img.shields.io/github/stars/MrPeterJin/researchgpt?style=for-the-badge) <a href="https://www.buymeacoffee.com/MakotoJin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="134"></a>
